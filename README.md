@@ -5,10 +5,6 @@ Main_AMC_3_1.m -> Main file
 The AMC_EWT project contains 3 stages
 
 1. Signal Generation
-2. Signal Decomposition using FBR-EWT
-3. Classification using Deep CNN
-
-1. Signal Generation
 
 	We have considered 9 modulation types for our Classifiaction out of which 6 are digital and 3 are analog modulation types. The random signals are generated and passed through the Modulators which are defined as modulation functions and then passed through various Noise channels.
 
